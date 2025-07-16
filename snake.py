@@ -1,6 +1,4 @@
 from turtle import Turtle
-from xml.dom.xmlbuilder import DOMEntityResolver
-
 STARTING_POSITIONS = [(0, 0), (-20, 0), (-40, 0)]
 MOVE_DISTANCE = 20
 UP = 90
